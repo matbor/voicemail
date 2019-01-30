@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Say>
+		Hi, thankyou for your call, we are currently busy at the moment.
+	    Please leave a message at the beep. 
+		Hangup when finished. 
+	    Thank you for calling.
+	</Say>
+
+	<Record
+		maxLength="20"
+	    action="<URL TO FUNCTION>"
+	/>
+</Response>
