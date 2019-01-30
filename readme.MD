@@ -1,13 +1,13 @@
-##Twilio Voicemail to Sparpost, Function and TwiML
+## Twilio Voicemail to Sparpost, Function and TwiML
 
 This will email the URL to the recorded voicemail using Sparkpost.
 
-###Requirements
-* Sparkpost API Key
-* Twilio account with valid number already assigned.
+### Requirements
++ Sparkpost API Key
++ Twilio account with valid number already assigned.
 
 
-##Twilio:
+## Twilio:
 
 1. Under Functions, Configure, add the following;
 - Environmental Variables
