@@ -1,4 +1,4 @@
-## Twilio Voicemail to Sparpost, Function and TwiML
+## Twilio Voicemail to SparkPost, using a Twilio Function and Twilio TwiML.
 
 This will email the URL to the recorded voicemail using Sparkpost.
 
